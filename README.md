@@ -1,8 +1,8 @@
-# GitHub Action Build Status
-[![CI](https://github.com/Diaz1401/clang-build/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/Diaz1401/clang-build/actions/workflows/build.yml)
+# Cirrus CI Build Status
+[![Build Status](https://api.cirrus-ci.com/github/Diaz1401/clang-build.svg?branch=release)](https://cirrus-ci.com/Diaz1401/clang-build)
 
 # Download
-Check latest release [here](https://github.com/Diaz1401/clang/releases/latest)
+Check latest release [here](https://github.com/Mengkernel/clang/releases/latest)
 
 # Simple installation method
 ```bash
@@ -20,9 +20,9 @@ clang --version
 
 # Features
 ```
-  ==> Minimal LLVM 19.0.0git-20240401 targeting 'AArch64' and 'X86'
+  ==> Minimal LLVM 19.0.0git-20240407 targeting 'AArch64' and 'X86'
   ==> Stripped binaries
-  ==> Download size 354MB
+  ==> Download size 219MB
   ==> Compressed tar archive with zstd v1.5.5
   ==> Build LLVM Polly & LLD
   ==> Build with ThinLTO + PGO
