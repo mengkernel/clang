@@ -1,5 +1,5 @@
 # Cirrus CI Build Status
-[![Build Status](https://api.cirrus-ci.com/github/Diaz1401/clang-build.svg?branch=release)](https://cirrus-ci.com/Diaz1401/clang-build)
+[![Build Status](https://api.cirrus-ci.com/github/Diaz1401/clang-build.svg?branch=main)](https://cirrus-ci.com/Diaz1401/clang-build)
 
 # Download
 Check latest release [here](https://github.com/Mengkernel/clang/releases/latest)
