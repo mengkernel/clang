@@ -25,7 +25,7 @@ clang --version
   ==> Download size 706MB
   ==> Compressed tar archive with zstd v1.5.6
   ==> Build LLVM Polly & LLD
-  ==> Build with ThinLTO + PGO
+  ==> Build with ThinLTO + PGO + BOLT
 ```
 # Build script
 
