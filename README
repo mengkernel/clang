@@ -1,5 +1,5 @@
 # GitHub Action Build Status
-[![Weekly Clang Build](https://github.com/mengkernel/clang-build/actions/workflows/weekly-build.yml/badge.svg)](https://github.com/mengkernel/clang-build/actions/workflows/weekly-build.yml)
+[![Weekly Clang Build](https://github.com/mengkernel/clang-build/actions/workflows/weekly-build.yaml/badge.svg)](https://github.com/mengkernel/clang-build/actions/workflows/weekly-build.yaml)
 
 # Download
 Check latest release [here](https://github.com/mengkernel/clang/releases/latest)
