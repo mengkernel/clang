@@ -16,7 +16,7 @@ clang --version
 
 # Features
 ```
-  ==> Minimal LLVM 20.0.0git-20240921 targeting 'AArch64' and 'X86'
+  ==> Minimal LLVM 20.0.0git-20240928 targeting 'AArch64' and 'X86'
   ==> Stripped binaries
   ==> Download size 230MB
   ==> Compressed tar archive with zstd v1.5.6
